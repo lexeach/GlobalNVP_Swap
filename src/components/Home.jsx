@@ -18,7 +18,7 @@ function Home() {
 
         var dataText = [
              "Swap NVP-USDT token.",
-            "EXPONA COIN- Fully decentralised.",
+            "Global NVP - Fully decentralised.",
             "Lower Transaction fee",
             "Instant Fund transfer to your wallet",
             "Select BNB smart chain mainnet in your wallet"
@@ -89,7 +89,7 @@ function Home() {
                 <div class="container">
                     <div class="banner_text_wthree
                         <div class="d-flex>
-                            <h1>Welcome to Expona Coin Swap </h1>
+                            <h1>Welcome to Global NVP Coin Swap </h1>
                             <h2>swap NVP token</h2>                                                  
                         </div>
                         <div id="text" class="banner_text_w3ls my-md-5 my-3"></div>
@@ -108,8 +108,8 @@ function Home() {
     
     <footer>
         <div class="cpy-right text-center py-4">
-            <p class="text-white">This is a decentralized swap application Designed by Expona Coin | All Right Reserved, Expona Coin or its Affiliates| 
-                <a href="https://expona.netlify.app/"> .</a>
+            <p class="text-white">This is a decentralized swap application Designed by Global NVP Coin | All Right Reserved, Global NVP or its Affiliates| 
+                <a href="https://globalnvp.netlify.app/"> .</a>
             </p>
         </div>
     </footer>
